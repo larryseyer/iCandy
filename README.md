@@ -2,11 +2,26 @@
 
 Download: https://larryseyer.com/icandy
 
--=-OR-=-
 
-If you have trouble accessing the primary site, you can download it directly from Dropbox:
+DOWNLOADED CONTENT IS FOR PERSONAL USE ONLY.
 
-https://www.dropbox.com/s/x9qcjd25a7u...
+Included artwork may not be modified, reused, remixed or distributed. Copyright 2021 Larry Seyer.
+
+---------------------
+
+Reaper forum thread: https://forum.cockos.com/showthread.php?t=248364
+
+---------------------
+
+READ THE INSTALL GUIDE and/or WATCH THE FOLLOWING VIDEO!
+
+How to install video:
+
+https://www.youtube.com/watch?v=zNmh2zTb1f4
+
+---------------------
+
+* DOWNLOAD FULL FREE installation package (recommended), please visit: https://larryseyer.com/icandy
 
 This took quite a bit of time to create...  Consider making a donation if you would like to see further development.
 
