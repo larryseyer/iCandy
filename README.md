@@ -17,7 +17,7 @@ READ THE INSTALL GUIDE and/or WATCH THE FOLLOWING VIDEO!
 
 How to install video:
 
-https://www.youtube.com/watch?v=zNmh2zTb1f4
+https://www.youtube.com/watch?v=udffj8XL0cU
 
 ---------------------
 
