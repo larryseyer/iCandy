@@ -9,7 +9,7 @@ Included artwork may not be modified, reused, remixed or distributed. Copyright 
 
 ---------------------
 
-Reaper forum thread: https://forum.cockos.com/showthread.php?t=248364
+Reaper forum thread: https://forum.cockos.com/showthread.php?t=290534
 
 ---------------------
 
